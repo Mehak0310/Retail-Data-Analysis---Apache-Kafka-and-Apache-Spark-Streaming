@@ -43,3 +43,11 @@ Perform the following tasks:
 3. Calculating the time-based KPIs and time and country-based KPIs
 4. Storing the KPIs (both time-based and time- and country-based) for a 10-minute interval into separate JSON files for further analysis
 These KPIs will be calculated on a tumbling window of one minute on orders across the globe.
+
+Following KPIs are calculated on a tumbling window of one minute on orders across the globe on a per-country-basis and time-country-basis.
+1. Total volume of sales
+2. OPM (orders per minute)
+3. Rate of return
+4. Average transaction size
+
+![image](https://github.com/Mehak0310/Blob/blob/main/retailImage.png)
