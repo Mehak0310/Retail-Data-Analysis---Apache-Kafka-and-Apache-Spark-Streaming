@@ -51,4 +51,4 @@ Following KPIs are calculated on a tumbling window of one minute on orders acros
 4. Average transaction size
 
 For our project, we will be focusing on the **‘Order Intelligence’** part of this data pipeline.
-![image](https://github.com/Mehak0310/Blob/blob/main/retailImage.png)
+![image](https://github.com/Mehak0310/Blob/blob/main/retailImageC.png)
